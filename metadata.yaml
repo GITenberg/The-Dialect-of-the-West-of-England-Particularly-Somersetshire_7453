@@ -1,0 +1,23 @@
+_repo: The-Dialect-of-the-West-of-England-Particularly-Somersetshire_7453
+creator:
+  author:
+    agent_name: Jennings, James
+    birthdate: 1772
+    deathdate: 1833
+    gutenberg_agent_id: '2475'
+    url: http://www.gutenberg.org/2009/agents/2475
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Dialects -- England -- Somerset'
+title: The Dialect of the West of England; Particularly Somersetshire
+url: http://www.gutenberg.org/ebooks/7453
