@@ -1,4 +1,8 @@
 _repo: The-Dialect-of-the-West-of-England-Particularly-Somersetshire_7453
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jennings, James
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2475'
     url: http://www.gutenberg.org/2009/agents/2475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7453#The-Dialect-of-the-West-of-England-Particularly-Somersetshire
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
